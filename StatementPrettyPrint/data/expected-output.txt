@@ -1,0 +1,8 @@
+  IF next-is-not-enemy THEN
+      turnleft
+      WHILE true DO
+      END WHILE
+      turnright
+      skip
+      skip-again
+  END IF
